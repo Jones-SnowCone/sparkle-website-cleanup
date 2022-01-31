@@ -1,0 +1,24 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.imgspc {
+    padding: 10px;
+}
+
+#tableOne {
+    border: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+#tableTwo {
+    border: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
